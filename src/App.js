@@ -3,13 +3,14 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import { Navbar, Nav } from "react-bootstrap";
 
 import './App.css';
-import Home from "./components/home";
-import Portfolio from "./components/portfolio";
-import Blogs from './components/blog';
-import Contact from './components/contact';
-import NoPage from './components/nopage';
+
+import Home from './components/home.js';
+import Portfolio from "./components/portfolio.js";
+import Blogs from './components/blog.js';
+import Contact from './components/contact.js';
+import NoPage from './components/nopage.js';
 import logo from './picture/logo.png';
-import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
   return (

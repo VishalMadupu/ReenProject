@@ -1,26 +1,70 @@
-ReenProject
-ReenProject is a front-end web application built with React.js, JavaScript, Bootstrap 4.6, CSS, and jQuery. Its primary focus is on delivering a responsive user experience across all screen sizes, ensuring seamless interaction on desktops, tablets, and smartphones.
+# Getting Started with Create React App
 
-Technologies Utilized:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-React.js: Powering the dynamic and interactive aspects of the application, React.js enables the creation of reusable UI components, facilitating a more maintainable and efficient development process.
+## Available Scripts
 
-JavaScript: Leveraging JavaScript for client-side scripting, ReenProject enhances user experience through dynamic content manipulation and event handling, providing a more engaging interface.
+In the project directory, you can run:
 
-Bootstrap 4.6: Bootstrap 4.6 is employed for its robust set of responsive design utilities and components. By utilizing Bootstrap's grid system and pre-styled components, ReenProject achieves consistency and aesthetics across different devices.
+### `npm start`
 
-CSS: Custom CSS styles are implemented to further refine the visual aspects of the application, ensuring that it aligns with the project's design goals and branding.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-jQuery: jQuery simplifies DOM manipulation and event handling, aiding in the development of interactive features within ReenProject while maintaining code readability and conciseness.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Key Features:
-Responsive Design: ReenProject is designed to adapt gracefully to various screen sizes, offering an optimized viewing experience regardless of the device being used.
+### `npm test`
 
-Dynamic Components: Utilizing React.js, the application boasts dynamic components that update in real-time based on user actions, providing a fluid and interactive user experience.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Bootstrap Components Integration: Bootstrap 4.6 components are seamlessly integrated into ReenProject, allowing for the quick development of UI elements such as navigation bars, buttons, and forms, all while maintaining a cohesive design.
+### `npm run build`
 
-Custom Styling: Custom CSS styles are employed to complement Bootstrap's components and ensure that the application's design matches the project's aesthetic requirements.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Purpose:
-ReenProject serves as a showcase of proficiency in front-end development technologies and responsive design principles. It demonstrates the ability to create modern web applications that prioritize user experience and accessibility across various devices.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
